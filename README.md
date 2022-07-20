@@ -3,7 +3,7 @@
 
 [prework submission](https://github.com/Marvinesc3/codepath-cybersecurity-pre-work-2022/blob/main/prework_cybersec.png)
 
-To complete this project, I did:
+To complete this project, I:
 1. Configured FireFox browser to work with Burb
 2. Monitored network traffic through Burp
 3. Launched a brute force sniper attack on simple blog login page
