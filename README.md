@@ -1,5 +1,5 @@
 # codepath-cybersecurity-pre-work-2022
-## Proof of my completion for CodePath's cybersecurity prework lab using Burp and FoxyProxy :sparkles:
+## Proof of completion for CodePath's cybersecurity prework lab using Burp and FoxyProxy :sparkles:
 
 [prework submission](https://github.com/Marvinesc3/codepath-cybersecurity-pre-work-2022/blob/main/prework_cybersec.png)
 
